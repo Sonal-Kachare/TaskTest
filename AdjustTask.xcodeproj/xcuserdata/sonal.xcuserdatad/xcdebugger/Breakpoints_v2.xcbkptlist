@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "508E31AA-EA3C-412F-9AB3-537662B61964"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5488AA88-D9FA-429B-A6BA-7B48190617EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AdjustTask/ViewController/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "-actionLogResponse:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87FF6AD0-5EAE-4352-B23F-5135BBBCE796"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AdjustTaskTests/AdjustTaskTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "-testfetchAPIDataWithSecondsSuccess"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87FF6AD0-5EAE-4352-B23F-5135BBBCE796 - b3b9eab08ab6034"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__53-[AdjustTaskTests testfetchAPIDataWithSecondsSuccess]_block_invoke"
+                  moduleName = "AdjustTaskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonal/Documents/CodingPractise/AdjustTask/AdjustTaskTests/AdjustTaskTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "55">
+               </Location>
+               <Location
+                  uuid = "87FF6AD0-5EAE-4352-B23F-5135BBBCE796 - b3b9eab08ab6034"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__53-[AdjustTaskTests testfetchAPIDataWithSecondsSuccess]_block_invoke"
+                  moduleName = "AdjustTaskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonal/Documents/CodingPractise/AdjustTask/AdjustTaskTests/AdjustTaskTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "454">
+               </Location>
+               <Location
+                  uuid = "87FF6AD0-5EAE-4352-B23F-5135BBBCE796 - b3b9eab08ab6034"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__53-[AdjustTaskTests testfetchAPIDataWithSecondsSuccess]_block_invoke"
+                  moduleName = "AdjustTaskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonal/Documents/CodingPractise/AdjustTask/AdjustTaskTests/AdjustTaskTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "534">
+               </Location>
+               <Location
+                  uuid = "87FF6AD0-5EAE-4352-B23F-5135BBBCE796 - b3b9eab08ab6034"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__53-[AdjustTaskTests testfetchAPIDataWithSecondsSuccess]_block_invoke"
+                  moduleName = "AdjustTaskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonal/Documents/CodingPractise/AdjustTask/AdjustTaskTests/AdjustTaskTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "627">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1A74983-04B6-4ACA-BA11-5840B87AAC1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AdjustTaskTests/AdjustTaskTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "-testfetchAPIDataWithSecondsFailure"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1A74983-04B6-4ACA-BA11-5840B87AAC1F - e951f1313a47319e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__53-[AdjustTaskTests testfetchAPIDataWithSecondsFailure]_block_invoke"
+                  moduleName = "AdjustTaskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonal/Documents/CodingPractise/AdjustTask/AdjustTaskTests/AdjustTaskTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "55">
+               </Location>
+               <Location
+                  uuid = "B1A74983-04B6-4ACA-BA11-5840B87AAC1F - e951f1313a47319e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__53-[AdjustTaskTests testfetchAPIDataWithSecondsFailure]_block_invoke"
+                  moduleName = "AdjustTaskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonal/Documents/CodingPractise/AdjustTask/AdjustTaskTests/AdjustTaskTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "454">
+               </Location>
+               <Location
+                  uuid = "B1A74983-04B6-4ACA-BA11-5840B87AAC1F - e951f1313a47319e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__53-[AdjustTaskTests testfetchAPIDataWithSecondsFailure]_block_invoke"
+                  moduleName = "AdjustTaskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonal/Documents/CodingPractise/AdjustTask/AdjustTaskTests/AdjustTaskTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "534">
+               </Location>
+               <Location
+                  uuid = "B1A74983-04B6-4ACA-BA11-5840B87AAC1F - e951f1313a47319e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__53-[AdjustTaskTests testfetchAPIDataWithSecondsFailure]_block_invoke"
+                  moduleName = "AdjustTaskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonal/Documents/CodingPractise/AdjustTask/AdjustTaskTests/AdjustTaskTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "627">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B11435D-AB8F-4613-8C07-78E4818487F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AdjustTask/ViewModel/TimeHandlerViewModel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "-_fetchAPIDataWithSeconds:completion:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBF5B130-7EF8-4B6B-9F78-25566C9E7940"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AdjustTask/ViewModel/TimeHandlerViewModel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "-_fetchAPIDataWithSeconds:completion:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EBF5B130-7EF8-4B6B-9F78-25566C9E7940 - ac5af0b6a2b7759c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TimeHandlerViewModel _fetchAPIDataWithSeconds:completion:]"
+                  moduleName = "AdjustTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonal/Documents/CodingPractise/AdjustTask/AdjustTask/ViewModel/TimeHandlerViewModel.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "586">
+               </Location>
+               <Location
+                  uuid = "EBF5B130-7EF8-4B6B-9F78-25566C9E7940 - d6dc946c0ea8c6f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__60-[TimeHandlerViewModel _fetchAPIDataWithSeconds:completion:]_block_invoke"
+                  moduleName = "AdjustTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonal/Documents/CodingPractise/AdjustTask/AdjustTask/ViewModel/TimeHandlerViewModel.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "127">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
